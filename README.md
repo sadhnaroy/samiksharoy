@@ -1,3 +1,4 @@
 # samiksharoy
-this is my first git responsibility
-author - sadhna roy
+This is my first Git responsibility.
+<br>
+Author - Sadhna Roy
